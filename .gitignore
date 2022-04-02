@@ -1,0 +1,14 @@
+my_product.img
+my_stock.img
+my_preload.img
+recovery.img
+odm/etc/fad/license.lic
+odm/etc/camera/sensetime
+odm/etc/camera/license_release_fdc.lic
+odm/etc/camera/model/license.lic
+my_heytap.img
+system_ext/priv-app/SystemUI/SystemUI.apk
+system_ext/priv-app/Settings/Settings.apk
+system_ext/apex/com.android.vndk.v30.apex
+super.img
+my_region.img
